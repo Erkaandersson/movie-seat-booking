@@ -1,13 +1,13 @@
 #Movie-Booker-site
 Ett projekt för en inlämning i en javascriptkurs där man ska kunna välja filmer och boka platser i en biograf. 
 
-##Funktionalitet: 
+## Funktionalitet: 
 - Bläddra bland tillgängliga filmer
 - Välj sittplatser i en virtuell biosalong
 - Kolla om sittplatser är tillgängliga eller ej
 - Boka platser för vald film och se totalpris för valda platser
 
-##Installation 
+## Installation 
 1 **Klona repot:**
    git clone https://github.com/Erkaandersson/movie-seat-booking.git
    
@@ -28,7 +28,7 @@ Ett projekt för en inlämning i en javascriptkurs där man ska kunna välja fil
 3. Välj sittplatser i biosalongen och gå vidare till bokningen.
 4. Följ instruktionerna för att betala och bekräfta bokningen.
 
-##Teknologi 
+## Teknologi 
 - **React** för gränsnittsutveckling
 - **Javascript** som programmeringspråk
 - **CSS** för styling av gränssnitt
