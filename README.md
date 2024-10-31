@@ -30,9 +30,12 @@ Ett projekt för en inlämning i en javascriptkurs där man ska kunna välja fil
 
 ## Teknologi 
 - **React** för gränsnittsutveckling
+  React valde jag främst för att jag är intresserad att lära mig mer av det. Gillar sättet man använder react för att bygga komponenter som sen renderas i app. Det ger en tydlig struktur av koden tycker jag. I efterhand skulle jag försökt att dela upp koden i ännu fler komponenter för att ge den ännu bättre struktur. Förstår syftet med react att det bygger på att dela upp hela projektet i mindre komponenter för att göra det lättare att hantera, men samtidigt blir det lite rörigt för mig som är ny i det när man skickar grejer fram och tillbaka emelllan komponenterna. 
+  
 - **Javascript** som programmeringspråk
 - **CSS** för styling av gränssnitt
 - **movies.json** hantera data för filmer
+   Valde att skapa en egen movies.json fil där jag fyllde på med filmer som jag sedan satte properties till som jag skulle kunna behöva. Att ha filen i projektet gör det enkelt att hämta filmer och rendera på sidan. 
   
 
 
