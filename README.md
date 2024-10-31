@@ -1,4 +1,4 @@
-#Movie-Booker-site
+# Movie-Booker-site
 Ett projekt för en inlämning i en javascriptkurs där man ska kunna välja filmer och boka platser i en biograf. 
 
 ## Funktionalitet: 
