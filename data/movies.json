@@ -1,0 +1,59 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "releaseYear": 2001,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "poster": "./images/FellowShipOfTheRing.jpg",
+        "price": 120
+      },
+      {
+        "id": 2,
+        "title": "The Lord of the Rings: The Two Towers",
+        "releaseYear": 2002,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "poster": "./images/LOTR-TwoTowers.jpg",
+        "price": 120
+      },
+      {
+        "id": 3,
+        "title": "The Lord of the Rings: The Return of the King",
+        "releaseYear": 2003,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "poster": "./images/ReturnOfTheKing.jpg",
+        "price": 120
+      },
+      {
+        "id": 4,
+        "title": "The Hobbit: An Unexpected Journey",
+        "releaseYear": 2012,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "poster": "./images/AnUnexpectedJourney.jpg",
+        "price": 100
+      },
+      {
+        "id": 5,
+        "title": "The Hobbit: The Desolation of Smaug",
+        "releaseYear": 2013,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "poster": "./images/DesolationOfSmaug.jpg",
+        "price": 100
+      },
+      {
+        "id": 6,
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "releaseYear": 2014,
+        "genre": "Fantasy",
+        "director": "Peter Jackson",
+        "poster": "./images/BattleOfTheFiveArmies.jpg",
+        "price": 100
+      }
+    ]
+  }
+  
