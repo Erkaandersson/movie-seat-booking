@@ -68,7 +68,7 @@ export const MoviePicker = ({ movies, onMovieChange }) => {
             {selectedMovie && (
                 <div className="selected-movie-info">
 
-                    <img src= {selectedMovie.poster} className="movie-poster"></img>
+                    <img src= {selectedMovie.poster} className="movie-poster" alt="Poster"></img>
                     <p><strong>Title:</strong> {selectedMovie.title}</p>
                     <p><strong>Price:</strong> {selectedMovie.price.toLocaleString("sv-SE", { style: "currency", currency: "SEK" })}</p>
                 </div>
