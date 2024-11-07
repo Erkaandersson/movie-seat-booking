@@ -13,7 +13,7 @@ function MovieList () {
     useEffect(() => {
         const fetchMovies = async () => {
             try {
-                const response = await fetch('/data/movies.json');
+                const response = await fetch('/movie-seat-booking/data/movies.json');
                 const data = await response.json();
                 setMovies(data.movies);
             }
@@ -68,7 +68,7 @@ export const MoviePicker = ({ movies, onMovieChange }) => {
             {selectedMovie && (
                 <div className="selected-movie-info">
 
-                    <img src= {selectedMovie.poster} className="movie-poster" alt="Poster"></img>
+                    <img src={selectedMovie.poster} className="movie-poster" alt="Poster"></img>
                     <p><strong>Title:</strong> {selectedMovie.title}</p>
                     <p><strong>Price:</strong> {selectedMovie.price.toLocaleString("sv-SE", { style: "currency", currency: "SEK" })}</p>
                 </div>
