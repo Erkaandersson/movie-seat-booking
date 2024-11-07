@@ -13,7 +13,7 @@ function MovieList () {
     useEffect(() => {
         const fetchMovies = async () => {
             try {
-                const response = await fetch(`${window.location.origin}/data/movies.json`);
+                const response = await fetch('/data/movies.json');
                 const data = await response.json();
                 setMovies(data.movies);
             }
