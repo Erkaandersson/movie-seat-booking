@@ -13,12 +13,12 @@ function MovieList () {
     useEffect(() => {
         const fetchMovies = async () => {
             try {
-                const response = await fetch('/data/movies.json');
+                const response = await fetch(`${window.location.origin}/data/movies.json`);
                 const data = await response.json();
                 setMovies(data.movies);
             }
             catch (error) {
-                console.error('There was anwsq> error fetching the 42WQs:', error);
+                console.error('There was an error fetching the movies:', error);
             }
         };
         fetchMovies();
