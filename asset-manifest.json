@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bdc411b.css",
-    "main.js": "/static/js/main.8ab01a27.js",
-    "static/js/453.374f16a6.chunk.js": "/static/js/453.374f16a6.chunk.js",
-    "index.html": "/index.html",
-    "main.3bdc411b.css.map": "/static/css/main.3bdc411b.css.map",
-    "main.8ab01a27.js.map": "/static/js/main.8ab01a27.js.map",
-    "453.374f16a6.chunk.js.map": "/static/js/453.374f16a6.chunk.js.map"
+    "main.css": "/Erkaandersson/movie-seat-booking/static/css/main.3bdc411b.css",
+    "main.js": "/Erkaandersson/movie-seat-booking/static/js/main.8c6d0741.js",
+    "static/js/453.374f16a6.chunk.js": "/Erkaandersson/movie-seat-booking/static/js/453.374f16a6.chunk.js",
+    "index.html": "/Erkaandersson/movie-seat-booking/index.html",
+    "main.3bdc411b.css.map": "/Erkaandersson/movie-seat-booking/static/css/main.3bdc411b.css.map",
+    "main.8c6d0741.js.map": "/Erkaandersson/movie-seat-booking/static/js/main.8c6d0741.js.map",
+    "453.374f16a6.chunk.js.map": "/Erkaandersson/movie-seat-booking/static/js/453.374f16a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bdc411b.css",
-    "static/js/main.8ab01a27.js"
+    "static/js/main.8c6d0741.js"
   ]
 }

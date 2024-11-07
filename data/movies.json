@@ -6,7 +6,7 @@
         "releaseYear": 2001,
         "genre": "Fantasy",
         "director": "Peter Jackson",
-        "poster": "./images/FellowShipOfTheRing.jpg",
+        "poster": "/movie-seat-booking/images/FellowShipOfTheRing.jpg",
         "price": 120
       },
       {
@@ -15,7 +15,7 @@
         "releaseYear": 2002,
         "genre": "Fantasy",
         "director": "Peter Jackson",
-        "poster": "./images/LOTR-TwoTowers.jpg",
+        "poster": "/movie-seat-booking/images/LOTR-TwoTowers.jpg",
         "price": 120
       },
       {
@@ -24,7 +24,7 @@
         "releaseYear": 2003,
         "genre": "Fantasy",
         "director": "Peter Jackson",
-        "poster": "./images/ReturnOfTheKing.jpg",
+        "poster": "/movie-seat-booking/images/ReturnOfTheKing.jpg",
         "price": 120
       },
       {
@@ -33,7 +33,7 @@
         "releaseYear": 2012,
         "genre": "Fantasy",
         "director": "Peter Jackson",
-        "poster": "./images/AnUnexpectedJourney.jpg",
+        "poster": "/movie-seat-booking/images/AnUnexpectedJourney.jpg",
         "price": 100
       },
       {
@@ -42,7 +42,7 @@
         "releaseYear": 2013,
         "genre": "Fantasy",
         "director": "Peter Jackson",
-        "poster": "./images/DesolationOfSmaug.jpg",
+        "poster": "/movie-seat-booking/images/DesolationOfSmaug.jpg",
         "price": 100
       },
       {
@@ -51,7 +51,7 @@
         "releaseYear": 2014,
         "genre": "Fantasy",
         "director": "Peter Jackson",
-        "poster": "./images/BattleOfTheFiveArmies.jpg",
+        "poster": "/movie-seat-booking/images/BattleOfTheFiveArmies.jpg",
         "price": 100
       }
     ]
