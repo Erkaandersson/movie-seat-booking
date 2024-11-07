@@ -35,6 +35,7 @@ Ett projekt för en inlämning i en javascriptkurs där man ska kunna välja fil
 - **CSS** för styling av gränssnitt
 - **movies.json** hantera data för filmer
    Valde att skapa en egen movies.json fil där jag fyllde på med filmer som jag sedan satte properties till som jag skulle kunna behöva. Att ha filen i projektet gör det enkelt att hämta filmer och rendera på sidan. 
-- **Formik** Formiks används för en enkel hantering och validering av formulär i mitt projekt. Tycker det va ganska enkelt att använda sig av Formik då Stefan hade gått igenom det på en föreläsning, samt att det är väldigt smidigt att implementera i ett projekt. 
+- **Formik** Formiks används för en enkel hantering och validering av formulär i mitt projekt. Tycker det va ganska enkelt att använda sig av Formik då Stefan hade gått igenom det på en föreläsning, samt att det är väldigt smidigt att implementera i ett projekt.
+- **Github Actions** Ett smidigt sätt för att dela med mig mitt projekt till andra. Har fattat det som att det även testar projektet varje gång det deployas vid ändringar pushade till github, vilket gör att man får bra koll på att inga nya ändringar förstör den fungerade koden. 
 
 
